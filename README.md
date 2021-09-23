@@ -1,1 +1,1 @@
-# LSTM-model-suite
+# Suite of different LSTM models
